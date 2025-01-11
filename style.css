@@ -1,0 +1,12 @@
+
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    padding: 50px;
+    border: 5px solid blue;
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    width: 300px;
+    margin: auto;
+}
